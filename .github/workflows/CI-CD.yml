@@ -13,5 +13,5 @@ jobs:
         with:
           java-version: '11'
           distribution: 'temurin'
-      - name: Build with Maven
+      - name: CI with Maven
         run: mvn test
