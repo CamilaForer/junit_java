@@ -19,7 +19,7 @@ class CatTest {
 
     @Test
     void sound() {
-        Assertions.assertEquals(newCat.sound(),"Miauuu");
+        Assertions.assertEquals(newCat.sound(),"Miauu");
     }
 
     @Test
